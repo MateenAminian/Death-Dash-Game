@@ -1,0 +1,59 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity specific
+sysinfo.txt
+*.stacktrace
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+
+# OS generated files
+.DS_Store
+*.swp
+*.sln
+*.bak
+*.tmp
+
+# Visual Studio / JetBrains / VS Code
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.ide
+
+# Crash logs
+*.log
+
+# Packed builds
+*.zip
+*.tar.gz
+*.7z
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.ipa
+*.app
+
+# Il2Cpp build cache
+Il2cppBuildCache/
+
