@@ -1,5 +1,5 @@
 # 🏃‍♂️ Death Dash
-A high-speed, side-scrolling endless runner built in Unity — designed to showcase advanced C# scripting, custom physics, and gameplay systems. This project demonstrates real-time game logic, asset integration, and performance optimization for indie-style game development.
+A high-speed, third-person endless runner built in Unity — designed to showcase advanced C# scripting, custom physics, and gameplay systems. This project demonstrates real-time game logic, asset integration, and performance optimization for indie-style game development.
 
 ![death-dash-header](https://raw.githubusercontent.com/MateenAminian/Death-Dash-Game/main/Assets/Screenshots/death-dash-header.png) <!-- Replace with real image path -->
 
